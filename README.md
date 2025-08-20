@@ -1,5 +1,5 @@
 <!-- 헤더 배너/간단 인사 -->
-<h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
+<h1 align="center">김 기 원 👋</h1>
 <p align="center">AI Software · Web Dev · Problem Solver</p>
 
 
